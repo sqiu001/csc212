@@ -29,6 +29,6 @@ int main(){
     int num;
     cout<<"enter number:";
     cin>>num;
-    tree(num,0);
+    tree(num,1);
     return 0;
 }
